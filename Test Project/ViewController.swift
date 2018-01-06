@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         
-        // Initial Configuration in Master
+        // 1st Commit on Master
     }
 
 
